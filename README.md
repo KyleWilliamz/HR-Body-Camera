@@ -1,2 +1,2 @@
 # HR-Body-Camera
-CSE321 - Term Project
+Heart Rate Body Camera Using an Arduino Uno
